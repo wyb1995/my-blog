@@ -1,7 +1,7 @@
 My Blog
 =======
 
-CI status: ![Build Status](https://travis-ci.org/freewind/my-blog.png?branch=master)
+CI status: ![Build Status](https://travis-ci.org/wyb1995/my-blog.svg?branch=master)
 
 My blog using express + react:
 
